@@ -1,0 +1,12 @@
+{
+    "Baslangic_Bakiyesi": 10000.0,
+    "Guncel_Bakiye": 9964.994715000008,
+    "Toplam_Kar_Zarar": -35.005284999992,
+    "Gun_Baslangici": "2026-08-17",
+    "Gun_Baslangic_Bakiyesi": 9964.994715000008,
+    "Hafta_Baslangici": "2026-08-17",
+    "Hafta_Baslangic_Bakiyesi": 9964.994715000008,
+    "Zirve_Bakiye": 10000.0,
+    "Devre_Kesici_Bitis": "2026-06-01",
+    "Sistem_Kilitli": true
+}

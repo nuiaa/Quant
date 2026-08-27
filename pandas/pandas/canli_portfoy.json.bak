@@ -1,0 +1,31 @@
+{
+    "CAH": {
+        "Sembol": "CAH",
+        "Ad": "CAH",
+        "Fiyat": 200.51,
+        "Yapay_Zeka_Olasiligi_Long": 51.54,
+        "Yapay_Zeka_Olasiligi_Short": 49.84,
+        "Yapay_Zeka_Olasiligi": 51.54,
+        "Skor": 51,
+        "RR_Orani": 2.0,
+        "RR_Orani_Long": 2.0,
+        "RR_Orani_Short": 2.0,
+        "Stop": 200.07,
+        "Hedef": 201.39,
+        "Stop_Long": 200.07,
+        "Hedef_Long": 201.39,
+        "Stop_Short": 200.95,
+        "Hedef_Short": 199.63,
+        "Onaylar": [
+            "Yapay Zeka Long Olasilik: %51.54",
+            "Yapay Zeka Short Olasilik: %49.84"
+        ],
+        "Telemetri_ID": "d499a0bd-7737-4195-8c87-3cd4e8c8026a",
+        "Yon": "LONG",
+        "Adet": 22,
+        "Risk_Tutari": 74.20530685000006,
+        "Islem_Maliyeti": 4417.836829999998,
+        "Risk_Profili": "STANDART (Otoban) (%30 Nakit Kalkanı)",
+        "Giris_Tarihi": "2026-05-26"
+    }
+}

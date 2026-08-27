@@ -1,0 +1,3515 @@
+{
+    "HG=F": {
+        "Sembol": "HG=F",
+        "Ad": "ENDUSTRIYEL_METALLER",
+        "Fiyat": 6.61,
+        "Skor": 70,
+        "AI_AL_ESIGI": 65.0,
+        "RR_Orani": 2.0,
+        "Stop": 6.39,
+        "Hedef": 6.95,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "CL=F": {
+        "Sembol": "CL=F",
+        "Ad": "ENERJI_EMTIALARI",
+        "Fiyat": 84.98,
+        "Skor": 70,
+        "AI_AL_ESIGI": 65.0,
+        "RR_Orani": 2.0,
+        "Stop": 79.11,
+        "Hedef": 102.96,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "CHTR": {
+        "Sembol": "CHTR",
+        "Ad": "CHTR",
+        "Fiyat": 150.3,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 138.91,
+        "Hedef": 172.69,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.6 Alpha)"
+        ]
+    },
+    "CMCSA": {
+        "Sembol": "CMCSA",
+        "Ad": "CMCSA",
+        "Fiyat": 27.02,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 25.94,
+        "Hedef": 28.68,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.6 Alpha)"
+        ]
+    },
+    "DIS": {
+        "Sembol": "DIS",
+        "Ad": "DIS",
+        "Fiyat": 110.61,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 104.38,
+        "Hedef": 114.58,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.6 Alpha)"
+        ]
+    },
+    "EA": {
+        "Sembol": "EA",
+        "Ad": "EA",
+        "Fiyat": 209.7,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": NaN,
+        "Stop": NaN,
+        "Hedef": NaN,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.6 Alpha)"
+        ]
+    },
+    "FOX": {
+        "Sembol": "FOX",
+        "Ad": "FOX",
+        "Fiyat": 61.59,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 58.48,
+        "Hedef": 66.19,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.6 Alpha)"
+        ]
+    },
+    "FOXA": {
+        "Sembol": "FOXA",
+        "Ad": "FOXA",
+        "Fiyat": 69.21,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 65.36,
+        "Hedef": 74.91,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.6 Alpha)"
+        ]
+    },
+    "GOOG": {
+        "Sembol": "GOOG",
+        "Ad": "GOOG",
+        "Fiyat": 344.59,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 330.1,
+        "Hedef": 365.05,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.6 Alpha)"
+        ]
+    },
+    "GOOGL": {
+        "Sembol": "GOOGL",
+        "Ad": "GOOGL",
+        "Fiyat": 348.06,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 332.38,
+        "Hedef": 369.7,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.6 Alpha)"
+        ]
+    },
+    "LYV": {
+        "Sembol": "LYV",
+        "Ad": "LYV",
+        "Fiyat": 184.59,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 175.97,
+        "Hedef": 193.53,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.6 Alpha)"
+        ]
+    },
+    "NFLX": {
+        "Sembol": "NFLX",
+        "Ad": "NFLX",
+        "Fiyat": 80.01,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 76.27,
+        "Hedef": 86.23,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.6 Alpha)"
+        ]
+    },
+    "NWS": {
+        "Sembol": "NWS",
+        "Ad": "NWS",
+        "Fiyat": 35.05,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 33.1,
+        "Hedef": 37.45,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.6 Alpha)"
+        ]
+    },
+    "NWSA": {
+        "Sembol": "NWSA",
+        "Ad": "NWSA",
+        "Fiyat": 30.76,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 29.18,
+        "Hedef": 32.78,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.6 Alpha)"
+        ]
+    },
+    "OMC": {
+        "Sembol": "OMC",
+        "Ad": "OMC",
+        "Fiyat": 88.94,
+        "Skor": 100,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 83.89,
+        "Hedef": 94.84,
+        "Onaylar": [
+            "Yutan Boğa",
+            "Sektörel Para Girişi (+%2.6 Alpha)"
+        ]
+    },
+    "T": {
+        "Sembol": "T",
+        "Ad": "T",
+        "Fiyat": 25.69,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 24.52,
+        "Hedef": 26.83,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.6 Alpha)"
+        ]
+    },
+    "TKO": {
+        "Sembol": "TKO",
+        "Ad": "TKO",
+        "Fiyat": 193.42,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 183.7,
+        "Hedef": 212.02,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.6 Alpha)"
+        ]
+    },
+    "TMUS": {
+        "Sembol": "TMUS",
+        "Ad": "TMUS",
+        "Fiyat": 182.62,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 176.13,
+        "Hedef": 196.86,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.6 Alpha)"
+        ]
+    },
+    "TTWO": {
+        "Sembol": "TTWO",
+        "Ad": "TTWO",
+        "Fiyat": 233.5,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 225.99,
+        "Hedef": 266.87,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.6 Alpha)"
+        ]
+    },
+    "VZ": {
+        "Sembol": "VZ",
+        "Ad": "VZ",
+        "Fiyat": 50.15,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 48.08,
+        "Hedef": 52.19,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.6 Alpha)"
+        ]
+    },
+    "WBD": {
+        "Sembol": "WBD",
+        "Ad": "WBD",
+        "Fiyat": 28.7,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 27.81,
+        "Hedef": 30.03,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.6 Alpha)"
+        ]
+    },
+    "ABNB": {
+        "Sembol": "ABNB",
+        "Ad": "ABNB",
+        "Fiyat": 190.21,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 176.84,
+        "Hedef": 208.22,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "AMZN": {
+        "Sembol": "AMZN",
+        "Ad": "AMZN",
+        "Fiyat": 262.07,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 249.05,
+        "Hedef": 277.79,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "AZO": {
+        "Sembol": "AZO",
+        "Ad": "AZO",
+        "Fiyat": 3009.44,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 2838.16,
+        "Hedef": 3197.53,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "BBY": {
+        "Sembol": "BBY",
+        "Ad": "BBY",
+        "Fiyat": 87.48,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 81.6,
+        "Hedef": 94.47,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "BKNG": {
+        "Sembol": "BKNG",
+        "Ad": "BKNG",
+        "Fiyat": 213.36,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 199.29,
+        "Hedef": 230.29,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "CMG": {
+        "Sembol": "CMG",
+        "Ad": "CMG",
+        "Fiyat": 38.02,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 34.87,
+        "Hedef": 40.96,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "CVNA": {
+        "Sembol": "CVNA",
+        "Ad": "CVNA",
+        "Fiyat": 72.33,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 64.33,
+        "Hedef": 81.08,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "DASH": {
+        "Sembol": "DASH",
+        "Ad": "DASH",
+        "Fiyat": 229.06,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 211.54,
+        "Hedef": 247.39,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "DHI": {
+        "Sembol": "DHI",
+        "Ad": "DHI",
+        "Fiyat": 148.97,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 141.56,
+        "Hedef": 161.94,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "DRI": {
+        "Sembol": "DRI",
+        "Ad": "DRI",
+        "Fiyat": 225.56,
+        "Skor": 100,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 213.22,
+        "Hedef": 238.37,
+        "Onaylar": [
+            "Yutan Boğa",
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "EBAY": {
+        "Sembol": "EBAY",
+        "Ad": "EBAY",
+        "Fiyat": 107.08,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 98.67,
+        "Hedef": 115.06,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "EXPE": {
+        "Sembol": "EXPE",
+        "Ad": "EXPE",
+        "Fiyat": 339.12,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 302.8,
+        "Hedef": 359.29,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "GPC": {
+        "Sembol": "GPC",
+        "Ad": "GPC",
+        "Fiyat": 135.69,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 129.19,
+        "Hedef": 143.5,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "GRMN": {
+        "Sembol": "GRMN",
+        "Ad": "GRMN",
+        "Fiyat": 291.25,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 284.06,
+        "Hedef": 316.44,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "HAS": {
+        "Sembol": "HAS",
+        "Ad": "HAS",
+        "Fiyat": 95.41,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 90.21,
+        "Hedef": 100.2,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "HD": {
+        "Sembol": "HD",
+        "Ad": "HD",
+        "Fiyat": 337.43,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 322.29,
+        "Hedef": 362.25,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "HLT": {
+        "Sembol": "HLT",
+        "Ad": "HLT",
+        "Fiyat": 330.07,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 315.86,
+        "Hedef": 348.18,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "LEN": {
+        "Sembol": "LEN",
+        "Ad": "LEN",
+        "Fiyat": 88.16,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 82.8,
+        "Hedef": 95.46,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "LOW": {
+        "Sembol": "LOW",
+        "Ad": "LOW",
+        "Fiyat": 216.98,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 207.5,
+        "Hedef": 233.27,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "LULU": {
+        "Sembol": "LULU",
+        "Ad": "LULU",
+        "Fiyat": 122.78,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 114.84,
+        "Hedef": 133.52,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "LVS": {
+        "Sembol": "LVS",
+        "Ad": "LVS",
+        "Fiyat": 46.97,
+        "Skor": 90,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 45.41,
+        "Hedef": 50.28,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "MAR": {
+        "Sembol": "MAR",
+        "Ad": "MAR",
+        "Fiyat": 360.2,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 345.16,
+        "Hedef": 378.84,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "MCD": {
+        "Sembol": "MCD",
+        "Ad": "MCD",
+        "Fiyat": 272.54,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 262.9,
+        "Hedef": 287.04,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "MELI": {
+        "Sembol": "MELI",
+        "Ad": "MELI",
+        "Fiyat": 1947.9,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 1810.47,
+        "Hedef": 2147.25,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "MGM": {
+        "Sembol": "MGM",
+        "Ad": "MGM",
+        "Fiyat": 43.69,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 42.47,
+        "Hedef": 46.29,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "NKE": {
+        "Sembol": "NKE",
+        "Ad": "NKE",
+        "Fiyat": 40.75,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 39.04,
+        "Hedef": 44.21,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "NVR": {
+        "Sembol": "NVR",
+        "Ad": "NVR",
+        "Fiyat": 6397.59,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 6122.38,
+        "Hedef": 6830.77,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "ORLY": {
+        "Sembol": "ORLY",
+        "Ad": "ORLY",
+        "Fiyat": 90.68,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 85.89,
+        "Hedef": 95.54,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "PHM": {
+        "Sembol": "PHM",
+        "Ad": "PHM",
+        "Fiyat": 129.61,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 123.14,
+        "Hedef": 140.71,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "POOL": {
+        "Sembol": "POOL",
+        "Ad": "POOL",
+        "Fiyat": 188.24,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 177.82,
+        "Hedef": 208.29,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "RCL": {
+        "Sembol": "RCL",
+        "Ad": "RCL",
+        "Fiyat": 293.0,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 280.02,
+        "Hedef": 315.96,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "RL": {
+        "Sembol": "RL",
+        "Ad": "RL",
+        "Fiyat": 370.82,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 353.13,
+        "Hedef": 411.52,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "ROST": {
+        "Sembol": "ROST",
+        "Ad": "ROST",
+        "Fiyat": 241.52,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 230.09,
+        "Hedef": 256.95,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "SBUX": {
+        "Sembol": "SBUX",
+        "Ad": "SBUX",
+        "Fiyat": 107.49,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 103.03,
+        "Hedef": 115.19,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "TSCO": {
+        "Sembol": "TSCO",
+        "Ad": "TSCO",
+        "Fiyat": 35.92,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 33.22,
+        "Hedef": 38.49,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "ULTA": {
+        "Sembol": "ULTA",
+        "Ad": "ULTA",
+        "Fiyat": 538.76,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 494.45,
+        "Hedef": 575.47,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "WSM": {
+        "Sembol": "WSM",
+        "Ad": "WSM",
+        "Fiyat": 237.77,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 227.88,
+        "Hedef": 256.98,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "WYNN": {
+        "Sembol": "WYNN",
+        "Ad": "WYNN",
+        "Fiyat": 99.41,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 95.7,
+        "Hedef": 109.43,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "YUM": {
+        "Sembol": "YUM",
+        "Ad": "YUM",
+        "Fiyat": 157.35,
+        "Skor": 100,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 146.76,
+        "Hedef": 165.46,
+        "Onaylar": [
+            "Çekiç Formasyonu",
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "F": {
+        "Sembol": "F",
+        "Ad": "F",
+        "Fiyat": 13.93,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 13.81,
+        "Hedef": 15.62,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "GM": {
+        "Sembol": "GM",
+        "Ad": "GM",
+        "Fiyat": 86.98,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 84.82,
+        "Hedef": 94.16,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "TSLA": {
+        "Sembol": "TSLA",
+        "Ad": "TSLA",
+        "Fiyat": 348.95,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 345.6,
+        "Hedef": 397.39,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.5 Alpha)"
+        ]
+    },
+    "CAH": {
+        "Sembol": "CAH",
+        "Ad": "CAH",
+        "Fiyat": 232.37,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 219.26,
+        "Hedef": 250.01,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "CNC": {
+        "Sembol": "CNC",
+        "Ad": "CNC",
+        "Fiyat": 65.65,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 61.44,
+        "Hedef": 72.18,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "COO": {
+        "Sembol": "COO",
+        "Ad": "COO",
+        "Fiyat": 75.8,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 73.96,
+        "Hedef": 80.75,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "COR": {
+        "Sembol": "COR",
+        "Ad": "COR",
+        "Fiyat": 323.77,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 302.65,
+        "Hedef": 348.83,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "DHR": {
+        "Sembol": "DHR",
+        "Ad": "DHR",
+        "Fiyat": 215.11,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 208.92,
+        "Hedef": 238.71,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "DXCM": {
+        "Sembol": "DXCM",
+        "Ad": "DXCM",
+        "Fiyat": 91.06,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 88.48,
+        "Hedef": 100.06,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "ELV": {
+        "Sembol": "ELV",
+        "Ad": "ELV",
+        "Fiyat": 402.63,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 385.93,
+        "Hedef": 429.76,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "EW": {
+        "Sembol": "EW",
+        "Ad": "EW",
+        "Fiyat": 90.5,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 86.9,
+        "Hedef": 95.56,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "GEHC": {
+        "Sembol": "GEHC",
+        "Ad": "GEHC",
+        "Fiyat": 74.19,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 72.43,
+        "Hedef": 79.6,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "HCA": {
+        "Sembol": "HCA",
+        "Ad": "HCA",
+        "Fiyat": 429.24,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 411.77,
+        "Hedef": 464.04,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "HSIC": {
+        "Sembol": "HSIC",
+        "Ad": "HSIC",
+        "Fiyat": 89.51,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 85.3,
+        "Hedef": 94.9,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "HUM": {
+        "Sembol": "HUM",
+        "Ad": "HUM",
+        "Fiyat": 386.61,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 358.59,
+        "Hedef": 419.47,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "IQV": {
+        "Sembol": "IQV",
+        "Ad": "IQV",
+        "Fiyat": 260.24,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 248.11,
+        "Hedef": 283.25,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "MCK": {
+        "Sembol": "MCK",
+        "Ad": "MCK",
+        "Fiyat": 873.79,
+        "Skor": 85,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 815.08,
+        "Hedef": 946.53,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "MDT": {
+        "Sembol": "MDT",
+        "Ad": "MDT",
+        "Fiyat": 92.9,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 90.29,
+        "Hedef": 99.47,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "RMD": {
+        "Sembol": "RMD",
+        "Ad": "RMD",
+        "Fiyat": 232.45,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 219.8,
+        "Hedef": 254.97,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "RVTY": {
+        "Sembol": "RVTY",
+        "Ad": "RVTY",
+        "Fiyat": 123.0,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 118.73,
+        "Hedef": 136.78,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "SOLV": {
+        "Sembol": "SOLV",
+        "Ad": "SOLV",
+        "Fiyat": 91.25,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 85.28,
+        "Hedef": 98.16,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "STE": {
+        "Sembol": "STE",
+        "Ad": "STE",
+        "Fiyat": 237.87,
+        "Skor": 90,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 228.89,
+        "Hedef": 256.01,
+        "Onaylar": [
+            "Yutan Boğa",
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "TECH": {
+        "Sembol": "TECH",
+        "Ad": "TECH",
+        "Fiyat": 72.39,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 71.9,
+        "Hedef": 73.16,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "TMO": {
+        "Sembol": "TMO",
+        "Ad": "TMO",
+        "Fiyat": 628.74,
+        "Skor": 85,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 606.82,
+        "Hedef": 674.18,
+        "Onaylar": [
+            "Çekiç Formasyonu",
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "UHS": {
+        "Sembol": "UHS",
+        "Ad": "UHS",
+        "Fiyat": 176.4,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 169.35,
+        "Hedef": 193.07,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "WAT": {
+        "Sembol": "WAT",
+        "Ad": "WAT",
+        "Fiyat": 410.75,
+        "Skor": 90,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 391.17,
+        "Hedef": 449.75,
+        "Onaylar": [
+            "Yutan Boğa",
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "WST": {
+        "Sembol": "WST",
+        "Ad": "WST",
+        "Fiyat": 353.32,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 342.08,
+        "Hedef": 375.08,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "ZBH": {
+        "Sembol": "ZBH",
+        "Ad": "ZBH",
+        "Fiyat": 100.98,
+        "Skor": 90,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 96.56,
+        "Hedef": 109.82,
+        "Onaylar": [
+            "Yutan Boğa",
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "ABBV": {
+        "Sembol": "ABBV",
+        "Ad": "ABBV",
+        "Fiyat": 264.52,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 256.62,
+        "Hedef": 281.64,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "BIIB": {
+        "Sembol": "BIIB",
+        "Ad": "BIIB",
+        "Fiyat": 218.12,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 207.96,
+        "Hedef": 234.41,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "BMY": {
+        "Sembol": "BMY",
+        "Ad": "BMY",
+        "Fiyat": 67.28,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 64.41,
+        "Hedef": 72.21,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "GILD": {
+        "Sembol": "GILD",
+        "Ad": "GILD",
+        "Fiyat": 146.74,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 139.5,
+        "Hedef": 159.35,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "INCY": {
+        "Sembol": "INCY",
+        "Ad": "INCY",
+        "Fiyat": 127.98,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 122.56,
+        "Hedef": 138.31,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "JNJ": {
+        "Sembol": "JNJ",
+        "Ad": "JNJ",
+        "Fiyat": 273.04,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 262.12,
+        "Hedef": 286.47,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "LLY": {
+        "Sembol": "LLY",
+        "Ad": "LLY",
+        "Fiyat": 1246.93,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 1187.77,
+        "Hedef": 1390.66,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "MRNA": {
+        "Sembol": "MRNA",
+        "Ad": "MRNA",
+        "Fiyat": 138.89,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 120.97,
+        "Hedef": 193.45,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "PFE": {
+        "Sembol": "PFE",
+        "Ad": "PFE",
+        "Fiyat": 27.97,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 27.1,
+        "Hedef": 30.02,
+        "Onaylar": [
+            "Yutan Boğa",
+            "Sektörel Para Girişi (+%5.8 Alpha)"
+        ]
+    },
+    "ACGL": {
+        "Sembol": "ACGL",
+        "Ad": "ACGL",
+        "Fiyat": 101.14,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 96.75,
+        "Hedef": 104.67,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "AFL": {
+        "Sembol": "AFL",
+        "Ad": "AFL",
+        "Fiyat": 118.2,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 112.9,
+        "Hedef": 122.42,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "AIZ": {
+        "Sembol": "AIZ",
+        "Ad": "AIZ",
+        "Fiyat": 287.81,
+        "Skor": 100,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 272.22,
+        "Hedef": 307.68,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "AJG": {
+        "Sembol": "AJG",
+        "Ad": "AJG",
+        "Fiyat": 271.99,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 253.02,
+        "Hedef": 285.38,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "ALL": {
+        "Sembol": "ALL",
+        "Ad": "ALL",
+        "Fiyat": 260.19,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 243.55,
+        "Hedef": 274.38,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "AMP": {
+        "Sembol": "AMP",
+        "Ad": "AMP",
+        "Fiyat": 561.13,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 539.85,
+        "Hedef": 587.06,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "AON": {
+        "Sembol": "AON",
+        "Ad": "AON",
+        "Fiyat": 359.1,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 344.16,
+        "Hedef": 377.01,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "APO": {
+        "Sembol": "APO",
+        "Ad": "APO",
+        "Fiyat": 132.79,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 125.08,
+        "Hedef": 147.9,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "ARES": {
+        "Sembol": "ARES",
+        "Ad": "ARES",
+        "Fiyat": 140.01,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 133.65,
+        "Hedef": 156.45,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "AXP": {
+        "Sembol": "AXP",
+        "Ad": "AXP",
+        "Fiyat": 337.33,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 326.95,
+        "Hedef": 354.1,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "BAC": {
+        "Sembol": "BAC",
+        "Ad": "BAC",
+        "Fiyat": 62.33,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 60.11,
+        "Hedef": 64.85,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "BEN": {
+        "Sembol": "BEN",
+        "Ad": "BEN",
+        "Fiyat": 34.62,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 33.21,
+        "Hedef": 36.51,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "BLK": {
+        "Sembol": "BLK",
+        "Ad": "BLK",
+        "Fiyat": 1172.61,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 1125.57,
+        "Hedef": 1218.51,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "BNY": {
+        "Sembol": "BNY",
+        "Ad": "BNY",
+        "Fiyat": 162.14,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 154.36,
+        "Hedef": 166.75,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "BRK-B": {
+        "Sembol": "BRK-B",
+        "Ad": "BRK-B",
+        "Fiyat": 504.32,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 483.69,
+        "Hedef": 520.09,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "BRO": {
+        "Sembol": "BRO",
+        "Ad": "BRO",
+        "Fiyat": 74.62,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 70.22,
+        "Hedef": 78.31,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "BX": {
+        "Sembol": "BX",
+        "Ad": "BX",
+        "Fiyat": 143.64,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 136.35,
+        "Hedef": 157.44,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "C": {
+        "Sembol": "C",
+        "Ad": "C",
+        "Fiyat": 131.72,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 127.13,
+        "Hedef": 140.7,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "CB": {
+        "Sembol": "CB",
+        "Ad": "CB",
+        "Fiyat": 345.83,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 332.81,
+        "Hedef": 357.34,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "CBOE": {
+        "Sembol": "CBOE",
+        "Ad": "CBOE",
+        "Fiyat": 308.09,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 286.77,
+        "Hedef": 328.68,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "CFG": {
+        "Sembol": "CFG",
+        "Ad": "CFG",
+        "Fiyat": 70.23,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 67.67,
+        "Hedef": 74.23,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "CINF": {
+        "Sembol": "CINF",
+        "Ad": "CINF",
+        "Fiyat": 171.21,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 163.47,
+        "Hedef": 177.92,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "CME": {
+        "Sembol": "CME",
+        "Ad": "CME",
+        "Fiyat": 279.17,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 265.97,
+        "Hedef": 292.99,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "COF": {
+        "Sembol": "COF",
+        "Ad": "COF",
+        "Fiyat": 216.27,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 210.62,
+        "Hedef": 232.5,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "COIN": {
+        "Sembol": "COIN",
+        "Ad": "COIN",
+        "Fiyat": 179.48,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 173.44,
+        "Hedef": 212.59,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "CPAY": {
+        "Sembol": "CPAY",
+        "Ad": "CPAY",
+        "Fiyat": 413.92,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 399.82,
+        "Hedef": 451.75,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "EG": {
+        "Sembol": "EG",
+        "Ad": "EG",
+        "Fiyat": 376.79,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 359.45,
+        "Hedef": 391.27,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "ERIE": {
+        "Sembol": "ERIE",
+        "Ad": "ERIE",
+        "Fiyat": 268.64,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 251.33,
+        "Hedef": 291.89,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "FDS": {
+        "Sembol": "FDS",
+        "Ad": "FDS",
+        "Fiyat": 305.31,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 284.73,
+        "Hedef": 330.26,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "FISV": {
+        "Sembol": "FISV",
+        "Ad": "FISV",
+        "Fiyat": 52.96,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 49.06,
+        "Hedef": 59.63,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "FITB": {
+        "Sembol": "FITB",
+        "Ad": "FITB",
+        "Fiyat": 54.9,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 53.2,
+        "Hedef": 58.06,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "GL": {
+        "Sembol": "GL",
+        "Ad": "GL",
+        "Fiyat": 173.13,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 165.61,
+        "Hedef": 182.02,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "GPN": {
+        "Sembol": "GPN",
+        "Ad": "GPN",
+        "Fiyat": 94.3,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 88.58,
+        "Hedef": 103.32,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "GS": {
+        "Sembol": "GS",
+        "Ad": "GS",
+        "Fiyat": 1036.28,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 1002.21,
+        "Hedef": 1113.42,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "HBAN": {
+        "Sembol": "HBAN",
+        "Ad": "HBAN",
+        "Fiyat": 17.04,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 16.51,
+        "Hedef": 18.06,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "HIG": {
+        "Sembol": "HIG",
+        "Ad": "HIG",
+        "Fiyat": 138.98,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 132.57,
+        "Hedef": 143.15,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "HOOD": {
+        "Sembol": "HOOD",
+        "Ad": "HOOD",
+        "Fiyat": 103.62,
+        "Skor": 100,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 100.22,
+        "Hedef": 123.96,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "IBKR": {
+        "Sembol": "IBKR",
+        "Ad": "IBKR",
+        "Fiyat": 93.05,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 89.64,
+        "Hedef": 102.33,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "ICE": {
+        "Sembol": "ICE",
+        "Ad": "ICE",
+        "Fiyat": 162.99,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 156.21,
+        "Hedef": 171.33,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "IVZ": {
+        "Sembol": "IVZ",
+        "Ad": "IVZ",
+        "Fiyat": 32.45,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 30.79,
+        "Hedef": 34.47,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "JKHY": {
+        "Sembol": "JKHY",
+        "Ad": "JKHY",
+        "Fiyat": 170.51,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 158.32,
+        "Hedef": 181.96,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "JPM": {
+        "Sembol": "JPM",
+        "Ad": "JPM",
+        "Fiyat": 356.39,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 342.99,
+        "Hedef": 368.77,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "KEY": {
+        "Sembol": "KEY",
+        "Ad": "KEY",
+        "Fiyat": 21.87,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 21.22,
+        "Hedef": 23.17,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "KKR": {
+        "Sembol": "KKR",
+        "Ad": "KKR",
+        "Fiyat": 107.32,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 101.76,
+        "Hedef": 121.91,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "L": {
+        "Sembol": "L",
+        "Ad": "L",
+        "Fiyat": 111.45,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 106.92,
+        "Hedef": 115.66,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "MA": {
+        "Sembol": "MA",
+        "Ad": "MA",
+        "Fiyat": 599.86,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 566.0,
+        "Hedef": 609.9,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "MCO": {
+        "Sembol": "MCO",
+        "Ad": "MCO",
+        "Fiyat": 511.35,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 487.92,
+        "Hedef": 534.12,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "MET": {
+        "Sembol": "MET",
+        "Ad": "MET",
+        "Fiyat": 96.21,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 91.52,
+        "Hedef": 99.97,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "MRSH": {
+        "Sembol": "MRSH",
+        "Ad": "MRSH",
+        "Fiyat": 194.67,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 186.57,
+        "Hedef": 202.88,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "MS": {
+        "Sembol": "MS",
+        "Ad": "MS",
+        "Fiyat": 214.08,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 206.92,
+        "Hedef": 228.76,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "MSCI": {
+        "Sembol": "MSCI",
+        "Ad": "MSCI",
+        "Fiyat": 571.36,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 544.37,
+        "Hedef": 601.72,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "MTB": {
+        "Sembol": "MTB",
+        "Ad": "MTB",
+        "Fiyat": 241.79,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 234.16,
+        "Hedef": 252.7,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "NDAQ": {
+        "Sembol": "NDAQ",
+        "Ad": "NDAQ",
+        "Fiyat": 98.79,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 95.42,
+        "Hedef": 103.83,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "NTRS": {
+        "Sembol": "NTRS",
+        "Ad": "NTRS",
+        "Fiyat": 186.66,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 178.26,
+        "Hedef": 195.17,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "PFG": {
+        "Sembol": "PFG",
+        "Ad": "PFG",
+        "Fiyat": 111.89,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 107.61,
+        "Hedef": 117.04,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "PGR": {
+        "Sembol": "PGR",
+        "Ad": "PGR",
+        "Fiyat": 223.92,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 212.19,
+        "Hedef": 233.46,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "PNC": {
+        "Sembol": "PNC",
+        "Ad": "PNC",
+        "Fiyat": 243.68,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 236.65,
+        "Hedef": 256.08,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "PRU": {
+        "Sembol": "PRU",
+        "Ad": "PRU",
+        "Fiyat": 122.67,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 117.06,
+        "Hedef": 129.34,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "PYPL": {
+        "Sembol": "PYPL",
+        "Ad": "PYPL",
+        "Fiyat": 61.68,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 59.27,
+        "Hedef": 66.1,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "RF": {
+        "Sembol": "RF",
+        "Ad": "RF",
+        "Fiyat": 30.63,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 29.62,
+        "Hedef": 31.99,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "RJF": {
+        "Sembol": "RJF",
+        "Ad": "RJF",
+        "Fiyat": 176.68,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 169.93,
+        "Hedef": 185.74,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "SCHW": {
+        "Sembol": "SCHW",
+        "Ad": "SCHW",
+        "Fiyat": 113.65,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 109.5,
+        "Hedef": 117.9,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "SPGI": {
+        "Sembol": "SPGI",
+        "Ad": "SPGI",
+        "Fiyat": 435.42,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 417.2,
+        "Hedef": 459.48,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "STT": {
+        "Sembol": "STT",
+        "Ad": "STT",
+        "Fiyat": 190.92,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 181.31,
+        "Hedef": 198.78,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "SYF": {
+        "Sembol": "SYF",
+        "Ad": "SYF",
+        "Fiyat": 80.02,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 76.77,
+        "Hedef": 84.87,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "TFC": {
+        "Sembol": "TFC",
+        "Ad": "TFC",
+        "Fiyat": 50.81,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 49.13,
+        "Hedef": 53.0,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "TROW": {
+        "Sembol": "TROW",
+        "Ad": "TROW",
+        "Fiyat": 112.3,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 108.23,
+        "Hedef": 118.08,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "TRV": {
+        "Sembol": "TRV",
+        "Ad": "TRV",
+        "Fiyat": 370.55,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 353.05,
+        "Hedef": 384.64,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "USB": {
+        "Sembol": "USB",
+        "Ad": "USB",
+        "Fiyat": 62.42,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 60.46,
+        "Hedef": 65.24,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "V": {
+        "Sembol": "V",
+        "Ad": "V",
+        "Fiyat": 382.41,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 361.43,
+        "Hedef": 390.27,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "WFC": {
+        "Sembol": "WFC",
+        "Ad": "WFC",
+        "Fiyat": 84.72,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 81.29,
+        "Hedef": 88.95,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "WTW": {
+        "Sembol": "WTW",
+        "Ad": "WTW",
+        "Fiyat": 350.75,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 330.73,
+        "Hedef": 364.51,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "XYZ": {
+        "Sembol": "XYZ",
+        "Ad": "XYZ",
+        "Fiyat": 81.38,
+        "Skor": 100,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 78.04,
+        "Hedef": 90.41,
+        "Onaylar": [
+            "Yutan Boğa",
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "APA": {
+        "Sembol": "APA",
+        "Ad": "APA",
+        "Fiyat": 42.96,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 40.96,
+        "Hedef": 48.25,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.1 Alpha)"
+        ]
+    },
+    "BKR": {
+        "Sembol": "BKR",
+        "Ad": "BKR",
+        "Fiyat": 61.99,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 60.02,
+        "Hedef": 66.98,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.1 Alpha)"
+        ]
+    },
+    "COP": {
+        "Sembol": "COP",
+        "Ad": "COP",
+        "Fiyat": 133.35,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 129.69,
+        "Hedef": 145.22,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.1 Alpha)"
+        ]
+    },
+    "CVX": {
+        "Sembol": "CVX",
+        "Ad": "CVX",
+        "Fiyat": 203.09,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 199.01,
+        "Hedef": 217.78,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.1 Alpha)"
+        ]
+    },
+    "DVN": {
+        "Sembol": "DVN",
+        "Ad": "DVN",
+        "Fiyat": 48.23,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 47.09,
+        "Hedef": 53.11,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.1 Alpha)"
+        ]
+    },
+    "EOG": {
+        "Sembol": "EOG",
+        "Ad": "EOG",
+        "Fiyat": 150.21,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 147.29,
+        "Hedef": 164.57,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.1 Alpha)"
+        ]
+    },
+    "EQT": {
+        "Sembol": "EQT",
+        "Ad": "EQT",
+        "Fiyat": 53.79,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 51.77,
+        "Hedef": 57.61,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.1 Alpha)"
+        ]
+    },
+    "EXE": {
+        "Sembol": "EXE",
+        "Ad": "EXE",
+        "Fiyat": 96.33,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 92.47,
+        "Hedef": 103.34,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.1 Alpha)"
+        ]
+    },
+    "FANG": {
+        "Sembol": "FANG",
+        "Ad": "FANG",
+        "Fiyat": 205.6,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 201.84,
+        "Hedef": 228.49,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.1 Alpha)"
+        ]
+    },
+    "HAL": {
+        "Sembol": "HAL",
+        "Ad": "HAL",
+        "Fiyat": 34.63,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 33.96,
+        "Hedef": 38.09,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.1 Alpha)"
+        ]
+    },
+    "KMI": {
+        "Sembol": "KMI",
+        "Ad": "KMI",
+        "Fiyat": 31.0,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 29.86,
+        "Hedef": 33.22,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.1 Alpha)"
+        ]
+    },
+    "MPC": {
+        "Sembol": "MPC",
+        "Ad": "MPC",
+        "Fiyat": 362.52,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 342.13,
+        "Hedef": 397.9,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.1 Alpha)"
+        ]
+    },
+    "OKE": {
+        "Sembol": "OKE",
+        "Ad": "OKE",
+        "Fiyat": 93.02,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 89.54,
+        "Hedef": 100.91,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.1 Alpha)"
+        ]
+    },
+    "OXY": {
+        "Sembol": "OXY",
+        "Ad": "OXY",
+        "Fiyat": 60.11,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 58.96,
+        "Hedef": 65.97,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.1 Alpha)"
+        ]
+    },
+    "PSX": {
+        "Sembol": "PSX",
+        "Ad": "PSX",
+        "Fiyat": 241.96,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 231.6,
+        "Hedef": 265.42,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.1 Alpha)"
+        ]
+    },
+    "SLB": {
+        "Sembol": "SLB",
+        "Ad": "SLB",
+        "Fiyat": 54.0,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 51.69,
+        "Hedef": 58.24,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.1 Alpha)"
+        ]
+    },
+    "TPL": {
+        "Sembol": "TPL",
+        "Ad": "TPL",
+        "Fiyat": 373.45,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 353.69,
+        "Hedef": 443.54,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.1 Alpha)"
+        ]
+    },
+    "TRGP": {
+        "Sembol": "TRGP",
+        "Ad": "TRGP",
+        "Fiyat": 294.26,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 284.95,
+        "Hedef": 327.39,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.1 Alpha)"
+        ]
+    },
+    "VLO": {
+        "Sembol": "VLO",
+        "Ad": "VLO",
+        "Fiyat": 346.0,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 332.16,
+        "Hedef": 382.26,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.1 Alpha)"
+        ]
+    },
+    "WMB": {
+        "Sembol": "WMB",
+        "Ad": "WMB",
+        "Fiyat": 70.97,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 67.27,
+        "Hedef": 76.92,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.1 Alpha)"
+        ]
+    },
+    "XOM": {
+        "Sembol": "XOM",
+        "Ad": "XOM",
+        "Fiyat": 164.05,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 159.54,
+        "Hedef": 176.26,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.1 Alpha)"
+        ]
+    },
+    "DE": {
+        "Sembol": "DE",
+        "Ad": "DE",
+        "Fiyat": 648.64,
+        "Skor": 90,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 617.7,
+        "Hedef": 707.0,
+        "Onaylar": [
+            "İkili Dip (W)",
+            "⚠️ Sektörel Para Çıkışı (-%2.8 Zayıflık)"
+        ]
+    },
+    "ADM": {
+        "Sembol": "ADM",
+        "Ad": "ADM",
+        "Fiyat": 78.16,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 77.24,
+        "Hedef": 86.41,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%4.5 Alpha)"
+        ]
+    },
+    "BF-B": {
+        "Sembol": "BF-B",
+        "Ad": "BF-B",
+        "Fiyat": 28.75,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 27.5,
+        "Hedef": 30.32,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%4.5 Alpha)"
+        ]
+    },
+    "BG": {
+        "Sembol": "BG",
+        "Ad": "BG",
+        "Fiyat": 110.16,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 109.18,
+        "Hedef": 120.98,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%4.5 Alpha)"
+        ]
+    },
+    "CASY": {
+        "Sembol": "CASY",
+        "Ad": "CASY",
+        "Fiyat": 854.21,
+        "Skor": 85,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 805.07,
+        "Hedef": 897.08,
+        "Onaylar": [
+            "Çekiç Formasyonu",
+            "Sektörel Para Girişi (+%4.5 Alpha)"
+        ]
+    },
+    "CHD": {
+        "Sembol": "CHD",
+        "Ad": "CHD",
+        "Fiyat": 102.53,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 96.07,
+        "Hedef": 104.27,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%4.5 Alpha)"
+        ]
+    },
+    "CL": {
+        "Sembol": "CL",
+        "Ad": "CL",
+        "Fiyat": 92.55,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 88.72,
+        "Hedef": 95.8,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%4.5 Alpha)"
+        ]
+    },
+    "CLX": {
+        "Sembol": "CLX",
+        "Ad": "CLX",
+        "Fiyat": 107.17,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 103.14,
+        "Hedef": 113.79,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%4.5 Alpha)"
+        ]
+    },
+    "DG": {
+        "Sembol": "DG",
+        "Ad": "DG",
+        "Fiyat": 125.33,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 119.21,
+        "Hedef": 131.81,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%4.5 Alpha)"
+        ]
+    },
+    "DLTR": {
+        "Sembol": "DLTR",
+        "Ad": "DLTR",
+        "Fiyat": 136.75,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 127.34,
+        "Hedef": 139.75,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%4.5 Alpha)"
+        ]
+    },
+    "GIS": {
+        "Sembol": "GIS",
+        "Ad": "GIS",
+        "Fiyat": 40.92,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 38.75,
+        "Hedef": 42.4,
+        "Onaylar": [
+            "Yutan Boğa",
+            "Sektörel Para Girişi (+%4.5 Alpha)"
+        ]
+    },
+    "HSY": {
+        "Sembol": "HSY",
+        "Ad": "HSY",
+        "Fiyat": 189.94,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 182.19,
+        "Hedef": 194.99,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%4.5 Alpha)"
+        ]
+    },
+    "KDP": {
+        "Sembol": "KDP",
+        "Ad": "KDP",
+        "Fiyat": 32.51,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 30.75,
+        "Hedef": 34.62,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%4.5 Alpha)"
+        ]
+    },
+    "KHC": {
+        "Sembol": "KHC",
+        "Ad": "KHC",
+        "Fiyat": 25.67,
+        "Skor": 85,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 24.69,
+        "Hedef": 27.37,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%4.5 Alpha)"
+        ]
+    },
+    "KMB": {
+        "Sembol": "KMB",
+        "Ad": "KMB",
+        "Fiyat": 111.37,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 106.06,
+        "Hedef": 115.82,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%4.5 Alpha)"
+        ]
+    },
+    "KO": {
+        "Sembol": "KO",
+        "Ad": "KO",
+        "Fiyat": 91.99,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 89.47,
+        "Hedef": 94.36,
+        "Onaylar": [
+            "Çekiç Formasyonu",
+            "Sektörel Para Girişi (+%4.5 Alpha)"
+        ]
+    },
+    "KVUE": {
+        "Sembol": "KVUE",
+        "Ad": "KVUE",
+        "Fiyat": 19.43,
+        "Skor": 85,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 18.56,
+        "Hedef": 20.05,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%4.5 Alpha)"
+        ]
+    },
+    "MDLZ": {
+        "Sembol": "MDLZ",
+        "Ad": "MDLZ",
+        "Fiyat": 64.7,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 62.94,
+        "Hedef": 67.46,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%4.5 Alpha)"
+        ]
+    },
+    "MO": {
+        "Sembol": "MO",
+        "Ad": "MO",
+        "Fiyat": 68.47,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 64.36,
+        "Hedef": 69.55,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%4.5 Alpha)"
+        ]
+    },
+    "PM": {
+        "Sembol": "PM",
+        "Ad": "PM",
+        "Fiyat": 191.46,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 183.22,
+        "Hedef": 198.25,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%4.5 Alpha)"
+        ]
+    },
+    "SJM": {
+        "Sembol": "SJM",
+        "Ad": "SJM",
+        "Fiyat": 125.87,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 120.76,
+        "Hedef": 131.44,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%4.5 Alpha)"
+        ]
+    },
+    "SYY": {
+        "Sembol": "SYY",
+        "Ad": "SYY",
+        "Fiyat": 83.86,
+        "Skor": 70,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 82.0,
+        "Hedef": 88.31,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%4.5 Alpha)"
+        ]
+    },
+    "ALB": {
+        "Sembol": "ALB",
+        "Ad": "ALB",
+        "Fiyat": 141.51,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 134.84,
+        "Hedef": 160.07,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "AMCR": {
+        "Sembol": "AMCR",
+        "Ad": "AMCR",
+        "Fiyat": 47.91,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 46.77,
+        "Hedef": 52.22,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "APD": {
+        "Sembol": "APD",
+        "Ad": "APD",
+        "Fiyat": 306.24,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 295.36,
+        "Hedef": 324.59,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "AVY": {
+        "Sembol": "AVY",
+        "Ad": "AVY",
+        "Fiyat": 183.69,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 176.33,
+        "Hedef": 198.46,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "CF": {
+        "Sembol": "CF",
+        "Ad": "CF",
+        "Fiyat": 129.24,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 121.93,
+        "Hedef": 144.93,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "CRH": {
+        "Sembol": "CRH",
+        "Ad": "CRH",
+        "Fiyat": 95.79,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 91.23,
+        "Hedef": 102.75,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "CTVA": {
+        "Sembol": "CTVA",
+        "Ad": "CTVA",
+        "Fiyat": 82.81,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 78.76,
+        "Hedef": 87.86,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "DD": {
+        "Sembol": "DD",
+        "Ad": "DD",
+        "Fiyat": 136.67,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 131.88,
+        "Hedef": 151.23,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "DOW": {
+        "Sembol": "DOW",
+        "Ad": "DOW",
+        "Fiyat": 31.44,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 30.72,
+        "Hedef": 35.6,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "ECL": {
+        "Sembol": "ECL",
+        "Ad": "ECL",
+        "Fiyat": 286.98,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 273.41,
+        "Hedef": 298.07,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "FCX": {
+        "Sembol": "FCX",
+        "Ad": "FCX",
+        "Fiyat": 77.8,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 72.29,
+        "Hedef": 85.41,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "IFF": {
+        "Sembol": "IFF",
+        "Ad": "IFF",
+        "Fiyat": 85.81,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 80.4,
+        "Hedef": 92.05,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "IP": {
+        "Sembol": "IP",
+        "Ad": "IP",
+        "Fiyat": 41.04,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 39.75,
+        "Hedef": 44.96,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "LIN": {
+        "Sembol": "LIN",
+        "Ad": "LIN",
+        "Fiyat": 490.03,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 475.06,
+        "Hedef": 512.6,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "LYB": {
+        "Sembol": "LYB",
+        "Ad": "LYB",
+        "Fiyat": 65.2,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 64.22,
+        "Hedef": 74.15,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "MLM": {
+        "Sembol": "MLM",
+        "Ad": "MLM",
+        "Fiyat": 533.11,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 515.4,
+        "Hedef": 573.96,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "MOS": {
+        "Sembol": "MOS",
+        "Ad": "MOS",
+        "Fiyat": 24.0,
+        "Skor": 100,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 22.76,
+        "Hedef": 27.7,
+        "Onaylar": [
+            "İkili Dip (W)",
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "NEM": {
+        "Sembol": "NEM",
+        "Ad": "NEM",
+        "Fiyat": 131.84,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 124.02,
+        "Hedef": 146.71,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "NUE": {
+        "Sembol": "NUE",
+        "Ad": "NUE",
+        "Fiyat": 244.64,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 229.66,
+        "Hedef": 271.57,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "PKG": {
+        "Sembol": "PKG",
+        "Ad": "PKG",
+        "Fiyat": 248.88,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 245.06,
+        "Hedef": 268.24,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "PPG": {
+        "Sembol": "PPG",
+        "Ad": "PPG",
+        "Fiyat": 113.23,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 109.87,
+        "Hedef": 121.14,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "SHW": {
+        "Sembol": "SHW",
+        "Ad": "SHW",
+        "Fiyat": 346.73,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 334.09,
+        "Hedef": 371.59,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "STLD": {
+        "Sembol": "STLD",
+        "Ad": "STLD",
+        "Fiyat": 229.27,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 213.58,
+        "Hedef": 258.87,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "SW": {
+        "Sembol": "SW",
+        "Ad": "SW",
+        "Fiyat": 48.69,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 47.23,
+        "Hedef": 53.71,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "VMC": {
+        "Sembol": "VMC",
+        "Ad": "VMC",
+        "Fiyat": 275.94,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 266.83,
+        "Hedef": 294.46,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "BALL": {
+        "Sembol": "BALL",
+        "Ad": "BALL",
+        "Fiyat": 64.42,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 61.49,
+        "Hedef": 67.79,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%3.8 Alpha)"
+        ]
+    },
+    "AMT": {
+        "Sembol": "AMT",
+        "Ad": "AMT",
+        "Fiyat": 178.39,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 168.91,
+        "Hedef": 189.58,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "ARE": {
+        "Sembol": "ARE",
+        "Ad": "ARE",
+        "Fiyat": 54.04,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 50.13,
+        "Hedef": 60.21,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "AVB": {
+        "Sembol": "AVB",
+        "Ad": "AVB",
+        "Fiyat": 65.9,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 64.49,
+        "Hedef": 68.73,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "BXP": {
+        "Sembol": "BXP",
+        "Ad": "BXP",
+        "Fiyat": 69.99,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 65.17,
+        "Hedef": 72.68,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "CBRE": {
+        "Sembol": "CBRE",
+        "Ad": "CBRE",
+        "Fiyat": 151.93,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 145.46,
+        "Hedef": 165.38,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "CCI": {
+        "Sembol": "CCI",
+        "Ad": "CCI",
+        "Fiyat": 76.4,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 72.04,
+        "Hedef": 82.46,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "CPT": {
+        "Sembol": "CPT",
+        "Ad": "CPT",
+        "Fiyat": 109.15,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 104.67,
+        "Hedef": 113.44,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "CSGP": {
+        "Sembol": "CSGP",
+        "Ad": "CSGP",
+        "Fiyat": 32.84,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 30.06,
+        "Hedef": 36.66,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "DLR": {
+        "Sembol": "DLR",
+        "Ad": "DLR",
+        "Fiyat": 188.55,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 183.83,
+        "Hedef": 204.2,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "DOC": {
+        "Sembol": "DOC",
+        "Ad": "DOC",
+        "Fiyat": 21.63,
+        "Skor": 100,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 20.68,
+        "Hedef": 22.84,
+        "Onaylar": [
+            "Çekiç Formasyonu",
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "EQIX": {
+        "Sembol": "EQIX",
+        "Ad": "EQIX",
+        "Fiyat": 1055.2,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 1023.96,
+        "Hedef": 1148.26,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "ESS": {
+        "Sembol": "ESS",
+        "Ad": "ESS",
+        "Fiyat": 293.61,
+        "Skor": 100,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 281.68,
+        "Hedef": 303.64,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "EXR": {
+        "Sembol": "EXR",
+        "Ad": "EXR",
+        "Fiyat": 146.25,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 143.18,
+        "Hedef": 154.07,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "FRT": {
+        "Sembol": "FRT",
+        "Ad": "FRT",
+        "Fiyat": 117.54,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 113.83,
+        "Hedef": 122.56,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "HST": {
+        "Sembol": "HST",
+        "Ad": "HST",
+        "Fiyat": 23.19,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 22.35,
+        "Hedef": 24.92,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "INVH": {
+        "Sembol": "INVH",
+        "Ad": "INVH",
+        "Fiyat": 30.46,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 29.41,
+        "Hedef": 31.51,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "IRM": {
+        "Sembol": "IRM",
+        "Ad": "IRM",
+        "Fiyat": 121.19,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 115.65,
+        "Hedef": 134.76,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "KIM": {
+        "Sembol": "KIM",
+        "Ad": "KIM",
+        "Fiyat": 24.22,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 23.36,
+        "Hedef": 25.34,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "MAA": {
+        "Sembol": "MAA",
+        "Ad": "MAA",
+        "Fiyat": 133.16,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 127.62,
+        "Hedef": 138.68,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "O": {
+        "Sembol": "O",
+        "Ad": "O",
+        "Fiyat": 63.17,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 61.13,
+        "Hedef": 65.54,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "PLD": {
+        "Sembol": "PLD",
+        "Ad": "PLD",
+        "Fiyat": 143.36,
+        "Skor": 100,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 138.33,
+        "Hedef": 148.74,
+        "Onaylar": [
+            "Çekiç Formasyonu",
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "PSA": {
+        "Sembol": "PSA",
+        "Ad": "PSA",
+        "Fiyat": 324.97,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 314.29,
+        "Hedef": 338.89,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "REG": {
+        "Sembol": "REG",
+        "Ad": "REG",
+        "Fiyat": 76.69,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 74.15,
+        "Hedef": 79.89,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "SBAC": {
+        "Sembol": "SBAC",
+        "Ad": "SBAC",
+        "Fiyat": 185.07,
+        "Skor": 90,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 174.02,
+        "Hedef": 199.73,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "SPG": {
+        "Sembol": "SPG",
+        "Ad": "SPG",
+        "Fiyat": 220.73,
+        "Skor": 80,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 212.59,
+        "Hedef": 229.68,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "UDR": {
+        "Sembol": "UDR",
+        "Ad": "UDR",
+        "Fiyat": 38.39,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 36.84,
+        "Hedef": 39.64,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "VICI": {
+        "Sembol": "VICI",
+        "Ad": "VICI",
+        "Fiyat": 26.78,
+        "Skor": 75,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 25.87,
+        "Hedef": 27.79,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "VTR": {
+        "Sembol": "VTR",
+        "Ad": "VTR",
+        "Fiyat": 93.47,
+        "Skor": 100,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 89.91,
+        "Hedef": 99.37,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "WELL": {
+        "Sembol": "WELL",
+        "Ad": "WELL",
+        "Fiyat": 240.01,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 231.97,
+        "Hedef": 253.72,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    },
+    "WY": {
+        "Sembol": "WY",
+        "Ad": "WY",
+        "Fiyat": 24.39,
+        "Skor": 95,
+        "AI_AL_ESIGI": 60.0,
+        "RR_Orani": 2.0,
+        "Stop": 23.52,
+        "Hedef": 26.25,
+        "Onaylar": [
+            "Sektörel Para Girişi (+%2.3 Alpha)"
+        ]
+    }
+}

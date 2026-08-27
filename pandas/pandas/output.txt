@@ -1,0 +1,7 @@
+                               count          sum        mean
+Sebep                                                        
+ZAMAN AŞIMI                       28  1024.679398   36.595693
+✅ Take-Profit (Mekanik)           33  5417.292806  164.160388
+✅ Take-Profit SHORT (Mekanik)      6   955.632022  159.272004
+🛑 Stop-Loss (Mekanik)             33 -5543.357020 -167.980516
+🛑 Stop-Loss SHORT (Mekanik)        7 -1303.314301 -186.187757

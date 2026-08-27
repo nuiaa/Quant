@@ -1,0 +1,742 @@
+{
+  "PIYASA_REHBERI": {
+    "Ana_Endeks": "SPY",
+    "Aciklama": "SPDR S&P 500 ETF Trust"
+  },
+  "SEKTORLER": {
+    "TEKNOLOJI": {
+      "ETF": "XLK",
+      "Karakter": "OFANSIF_BUYUME",
+      "Makro_Hassasiyet": {
+        "VIX": -2,
+        "DXY": -1
+      },
+      "Endustriler": {
+        "DONANIM_VE_CIHAZ": {
+          "ETF": "AAPL",
+          "Hisseler": [
+            "AAPL",
+            "ACN",
+            "AKAM",
+            "ANET",
+            "APH",
+            "CDW",
+            "CIEN",
+            "COHR",
+            "CSCO",
+            "CTSH",
+            "DELL",
+            "EPAM",
+            "FFIV",
+            "GDDY",
+            "GLW",
+            "HPE",
+            "HPQ",
+            "IBM",
+            "IT",
+            "JBL",
+            "KEYS",
+            "LITE",
+            "MSI",
+            "NTAP",
+            "ROP",
+            "SMCI",
+            "SNDK",
+            "STX",
+            "TDY",
+            "TEL",
+            "VRSN",
+            "WDC",
+            "ZBRA"
+          ]
+        },
+        "YAZILIM": {
+          "ETF": "IGV",
+          "Hisseler": [
+            "ADBE",
+            "ADSK",
+            "APP",
+            "CDNS",
+            "CRM",
+            "CRWD",
+            "DDOG",
+            "FICO",
+            "FTNT",
+            "GEN",
+            "INTU",
+            "MSFT",
+            "NOW",
+            "ORCL",
+            "PANW",
+            "PLTR",
+            "PTC",
+            "SNPS",
+            "TRMB",
+            "TYL",
+            "WDAY"
+          ]
+        },
+        "YARI_ILETKENLER": {
+          "ETF": "SMH",
+          "Hisseler": [
+            "ADI",
+            "AMAT",
+            "AMD",
+            "AVGO",
+            "FSLR",
+            "INTC",
+            "KLAC",
+            "LRCX",
+            "MCHP",
+            "MPWR",
+            "MU",
+            "NVDA",
+            "NXPI",
+            "ON",
+            "Q",
+            "QCOM",
+            "SWKS",
+            "TER",
+            "TXN"
+          ]
+        }
+      }
+    },
+    "ILETISIM_HIZMETLERI": {
+      "ETF": "XLC",
+      "Karakter": "OFANSIF_MEDYA",
+      "Makro_Hassasiyet": {
+        "VIX": -1,
+        "DXY": -1
+      },
+      "Endustriler": {
+        "INTERNET_VE_SOSYAL_MEDYA": {
+          "ETF": "FDN",
+          "Hisseler": [
+            "CHTR",
+            "CMCSA",
+            "DIS",
+            "EA",
+            "FOX",
+            "FOXA",
+            "GOOG",
+            "GOOGL",
+            "LYV",
+            "META",
+            "NFLX",
+            "NWS",
+            "NWSA",
+            "OMC",
+            "PSKY",
+            "SATS",
+            "T",
+            "TKO",
+            "TMUS",
+            "TTD",
+            "TTWO",
+            "VZ",
+            "WBD"
+          ]
+        }
+      }
+    },
+    "TUKETICI_ISTEGE_BAGLI": {
+      "ETF": "XLY",
+      "Karakter": "DONGUSEL",
+      "Makro_Hassasiyet": {
+        "VIX": -2,
+        "DXY": -1
+      },
+      "Endustriler": {
+        "PERAKENDE_E_TICARET": {
+          "ETF": "XRT",
+          "Hisseler": [
+            "ABNB",
+            "AMZN",
+            "APTV",
+            "AZO",
+            "BBY",
+            "BKNG",
+            "CCL",
+            "CMG",
+            "CVNA",
+            "DASH",
+            "DECK",
+            "DHI",
+            "DPZ",
+            "DRI",
+            "EBAY",
+            "EXPE",
+            "GPC",
+            "GRMN",
+            "HAS",
+            "HD",
+            "HLT",
+            "LEN",
+            "LOW",
+            "LULU",
+            "LVS",
+            "MAR",
+            "MCD",
+            "MELI",
+            "MGM",
+            "NCLH",
+            "NKE",
+            "NVR",
+            "ORLY",
+            "PHM",
+            "POOL",
+            "RCL",
+            "RL",
+            "ROST",
+            "SBUX",
+            "TJX",
+            "TPR",
+            "TSCO",
+            "ULTA",
+            "WSM",
+            "WYNN",
+            "YUM"
+          ]
+        },
+        "OTOMOTIV": {
+          "ETF": "TSLA",
+          "Hisseler": [
+            "F",
+            "GM",
+            "TSLA"
+          ]
+        }
+      }
+    },
+    "SAGLIK": {
+      "ETF": "XLV",
+      "Karakter": "DEFANSIF",
+      "Makro_Hassasiyet": {
+        "VIX": 1,
+        "DXY": 0
+      },
+      "Endustriler": {
+        "TIBBI_CIHAZLAR": {
+          "ETF": "IHI",
+          "Hisseler": [
+            "A",
+            "ABT",
+            "ALGN",
+            "BAX",
+            "BDX",
+            "BSX",
+            "CAH",
+            "CI",
+            "CNC",
+            "COO",
+            "COR",
+            "CRL",
+            "CVS",
+            "DGX",
+            "DHR",
+            "DVA",
+            "DXCM",
+            "ELV",
+            "EW",
+            "GEHC",
+            "HCA",
+            "HSIC",
+            "HUM",
+            "IDXX",
+            "IQV",
+            "ISRG",
+            "LH",
+            "MCK",
+            "MDT",
+            "MTD",
+            "PODD",
+            "RMD",
+            "RVTY",
+            "SOLV",
+            "STE",
+            "SYK",
+            "TECH",
+            "TMO",
+            "UHS",
+            "UNH",
+            "VEEV",
+            "WAT",
+            "WST",
+            "ZBH"
+          ]
+        },
+        "ILAC_VE_BIYOTEKNOLOJI": {
+          "ETF": "IBB",
+          "Hisseler": [
+            "ABBV",
+            "AMGN",
+            "BIIB",
+            "BMY",
+            "GILD",
+            "INCY",
+            "JNJ",
+            "LLY",
+            "MRK",
+            "MRNA",
+            "PFE",
+            "REGN",
+            "VRTX",
+            "VTRS",
+            "ZTS"
+          ]
+        }
+      }
+    },
+    "FINANS": {
+      "ETF": "XLF",
+      "Karakter": "FAIZ_ODAKLI",
+      "Makro_Hassasiyet": {
+        "VIX": -2,
+        "DXY": 1
+      },
+      "Endustriler": {
+        "BANKACILIK_VE_ODEME": {
+          "ETF": "KRE",
+          "Hisseler": [
+            "ACGL",
+            "AFL",
+            "AIG",
+            "AIZ",
+            "AJG",
+            "ALL",
+            "AMP",
+            "AON",
+            "APO",
+            "ARES",
+            "AXP",
+            "BAC",
+            "BEN",
+            "BLK",
+            "BNY",
+            "BRK-B",
+            "BRO",
+            "BX",
+            "C",
+            "CB",
+            "CBOE",
+            "CFG",
+            "CINF",
+            "CME",
+            "COF",
+            "COIN",
+            "CPAY",
+            "EG",
+            "ERIE",
+            "FDS",
+            "FIS",
+            "FISV",
+            "FITB",
+            "GL",
+            "GPN",
+            "GS",
+            "HBAN",
+            "HIG",
+            "HOOD",
+            "IBKR",
+            "ICE",
+            "IVZ",
+            "JKHY",
+            "JPM",
+            "KEY",
+            "KKR",
+            "L",
+            "MA",
+            "MCO",
+            "MET",
+            "MRSH",
+            "MS",
+            "MSCI",
+            "MTB",
+            "NDAQ",
+            "NTRS",
+            "PFG",
+            "PGR",
+            "PNC",
+            "PRU",
+            "PYPL",
+            "RF",
+            "RJF",
+            "SCHW",
+            "SPGI",
+            "STT",
+            "SYF",
+            "TFC",
+            "TROW",
+            "TRV",
+            "USB",
+            "V",
+            "WFC",
+            "WRB",
+            "WTW",
+            "XYZ"
+          ]
+        }
+      }
+    },
+    "ENERJI": {
+      "ETF": "XLE",
+      "Karakter": "ENFLASYONIST",
+      "Makro_Hassasiyet": {
+        "VIX": -1,
+        "DXY": 2
+      },
+      "Endustriler": {
+        "PETROL_VE_GAZ": {
+          "ETF": "XOP",
+          "Hisseler": [
+            "APA",
+            "BKR",
+            "COP",
+            "CVX",
+            "DVN",
+            "EOG",
+            "EQT",
+            "EXE",
+            "FANG",
+            "HAL",
+            "KMI",
+            "MPC",
+            "OKE",
+            "OXY",
+            "PSX",
+            "SLB",
+            "TPL",
+            "TRGP",
+            "VLO",
+            "WMB",
+            "XOM"
+          ]
+        }
+      }
+    },
+    "SANAYI": {
+      "ETF": "XLI",
+      "Karakter": "MAKRO_DONGUSEL",
+      "Makro_Hassasiyet": {
+        "VIX": -1,
+        "DXY": -1
+      },
+      "Endustriler": {
+        "AGIR_MAKINE_VE_LOJISTIK": {
+          "ETF": "VIS",
+          "Hisseler": [
+            "ADP",
+            "ALLE",
+            "AME",
+            "AOS",
+            "BLDR",
+            "BR",
+            "CARR",
+            "CAT",
+            "CHRW",
+            "CMI",
+            "CPRT",
+            "CSX",
+            "CTAS",
+            "DAL",
+            "DE",
+            "DOV",
+            "EFX",
+            "EME",
+            "EMR",
+            "ETN",
+            "EXPD",
+            "FAST",
+            "FDX",
+            "FIX",
+            "FTV",
+            "GEV",
+            "GNRC",
+            "GWW",
+            "HON",
+            "HUBB",
+            "IEX",
+            "IR",
+            "ITW",
+            "J",
+            "JBHT",
+            "JCI",
+            "LDOS",
+            "LII",
+            "LUV",
+            "MAS",
+            "MMM",
+            "NDSN",
+            "NSC",
+            "ODFL",
+            "OTIS",
+            "PAYX",
+            "PCAR",
+            "PH",
+            "PNR",
+            "PWR",
+            "ROK",
+            "ROL",
+            "RSG",
+            "SNA",
+            "SWK",
+            "TT",
+            "UAL",
+            "UBER",
+            "UNP",
+            "UPS",
+            "URI",
+            "VLTO",
+            "VRSK",
+            "VRT",
+            "WAB",
+            "WM",
+            "XYL"
+          ]
+        },
+        "SAVUNMA_VE_HAVACILIK": {
+          "ETF": "ITA",
+          "Hisseler": [
+            "AXON",
+            "BA",
+            "GD",
+            "GE",
+            "HII",
+            "HWM",
+            "LHX",
+            "LMT",
+            "NOC",
+            "RTX",
+            "TDG",
+            "TXT"
+          ]
+        }
+      }
+    },
+    "TUKETICI_TEMEL_IHTIYAC": {
+      "ETF": "XLP",
+      "Karakter": "STABIL_DEFANSIF",
+      "Makro_Hassasiyet": {
+        "VIX": 2,
+        "DXY": 0
+      },
+      "Endustriler": {
+        "GIDA_VE_ICECEK": {
+          "ETF": "PBJ",
+          "Hisseler": [
+            "ADM",
+            "BF-B",
+            "BG",
+            "CAG",
+            "CASY",
+            "CHD",
+            "CL",
+            "CLX",
+            "COST",
+            "CPB",
+            "DG",
+            "DLTR",
+            "EL",
+            "GIS",
+            "HRL",
+            "HSY",
+            "KDP",
+            "KHC",
+            "KMB",
+            "KO",
+            "KR",
+            "KVUE",
+            "MDLZ",
+            "MKC",
+            "MNST",
+            "MO",
+            "PEP",
+            "PG",
+            "PM",
+            "SJM",
+            "STZ",
+            "SYY",
+            "TAP",
+            "TGT",
+            "TSN",
+            "WMT"
+          ]
+        }
+      }
+    },
+    "MALZEMELER": {
+      "ETF": "XLB",
+      "Karakter": "DONGUSEL_HAMMADDE",
+      "Makro_Hassasiyet": {
+        "VIX": -1,
+        "DXY": -2
+      },
+      "Endustriler": {
+        "KIMYASALLAR_VE_MALZEME": {
+          "ETF": "XLB",
+          "Hisseler": [
+            "ALB",
+            "AMCR",
+            "APD",
+            "AVY",
+            "CF",
+            "CRH",
+            "CTVA",
+            "DD",
+            "DOW",
+            "ECL",
+            "FCX",
+            "IFF",
+            "IP",
+            "LIN",
+            "LYB",
+            "MLM",
+            "MOS",
+            "NEM",
+            "NUE",
+            "PKG",
+            "PPG",
+            "SHW",
+            "STLD",
+            "SW",
+            "VMC"
+          ]
+        },
+        "METALLER_VE_MADENCILIK": {
+          "ETF": "XME",
+          "Hisseler": [
+            "BALL"
+          ]
+        }
+      }
+    },
+    "KAMU_HIZMETLERI": {
+      "ETF": "XLU",
+      "Karakter": "DEFANSIF_FAIZ",
+      "Makro_Hassasiyet": {
+        "VIX": 2,
+        "DXY": -1
+      },
+      "Endustriler": {
+        "ELEKTRIK_VE_GAZ": {
+          "ETF": "XLU",
+          "Hisseler": [
+            "AEE",
+            "AEP",
+            "AES",
+            "ATO",
+            "AWK",
+            "CEG",
+            "CMS",
+            "CNP",
+            "D",
+            "DTE",
+            "DUK",
+            "ED",
+            "EIX",
+            "ES",
+            "ETR",
+            "EVRG",
+            "EXC",
+            "FE",
+            "LNT",
+            "NEE",
+            "NI",
+            "NRG",
+            "PCG",
+            "PEG",
+            "PNW",
+            "PPL",
+            "SO",
+            "SRE",
+            "VST",
+            "WEC",
+            "XEL"
+          ]
+        }
+      }
+    },
+    "GAYRIMENKUL": {
+      "ETF": "XLRE",
+      "Karakter": "FAIZ_HASSAS",
+      "Makro_Hassasiyet": {
+        "VIX": -1,
+        "DXY": -2
+      },
+      "Endustriler": {
+        "GAYRIMENKUL_YATIRIM_ORTAKLIGI": {
+          "ETF": "XLRE",
+          "Hisseler": [
+            "AMT",
+            "ARE",
+            "AVB",
+            "BXP",
+            "CBRE",
+            "CCI",
+            "CPT",
+            "CSGP",
+            "DLR",
+            "DOC",
+            "EQIX",
+            "EQR",
+            "ESS",
+            "EXR",
+            "FRT",
+            "HST",
+            "INVH",
+            "IRM",
+            "KIM",
+            "MAA",
+            "O",
+            "PLD",
+            "PSA",
+            "REG",
+            "SBAC",
+            "SPG",
+            "UDR",
+            "VICI",
+            "VTR",
+            "WELL",
+            "WY"
+          ]
+        }
+      }
+    },
+    "EMTIA_VE_MADENCILIK": {
+      "ETF": "DBC",
+      "Karakter": "GUVENLI_LIMAN_VE_HAMMADDE",
+      "Makro_Hassasiyet": {
+        "VIX": 3,
+        "DXY": -3
+      },
+      "Endustriler": {
+        "KIYMETLI_MADENLER": {
+          "ETF": "GLD",
+          "Hisseler": [
+            "GC=F",
+            "SI=F",
+            "SI=F",
+            "GC=F"
+          ]
+        },
+        "ENDUSTRIYEL_METALLER": {
+          "ETF": "CPER",
+          "Hisseler": [
+            "HG=F",
+            "PA=F",
+            "PL=F"
+          ]
+        },
+        "ENERJI_EMTIALARI": {
+          "ETF": "USO",
+          "Hisseler": [
+            "CL=F",
+            "CL=F",
+            "NG=F"
+          ]
+        }
+      }
+    }
+  }
+}

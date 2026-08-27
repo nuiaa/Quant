@@ -1,0 +1,30 @@
+{
+    "SWKS": {
+        "Sembol": "SWKS",
+        "Ad": "SWKS",
+        "Fiyat": 82.41,
+        "Yapay_Zeka_Olasiligi_Long": 100.0,
+        "Yapay_Zeka_Olasiligi_Short": 0.0,
+        "Yapay_Zeka_Olasiligi": 100.0,
+        "Skor": 100,
+        "RR_Orani": 2.0,
+        "RR_Orani_Long": 2.0,
+        "RR_Orani_Short": 2.0,
+        "Stop": 81.8,
+        "Hedef": 83.63,
+        "Stop_Long": 81.8,
+        "Hedef_Long": 83.63,
+        "Stop_Short": 83.02,
+        "Hedef_Short": 81.19,
+        "Onaylar": [
+            "Yapay Zeka Long Olasilik: %100.00",
+            "Yapay Zeka Short Olasilik: %0.00"
+        ],
+        "Yon": "LONG",
+        "Adet": 121,
+        "Risk_Tutari": 400.0,
+        "Islem_Maliyeti": 9986.567414999998,
+        "Risk_Profili": "AGRESİF RİSK (Nakit Sınırı)",
+        "Giris_Tarihi": "2026-05-23"
+    }
+}
